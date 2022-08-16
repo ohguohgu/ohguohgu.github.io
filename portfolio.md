@@ -26,11 +26,9 @@ Aran Kim
 
 > Github : <a href="https://github.com/ohguohgu">https://github.com/ohguohgu</a>
 
-## Skills and Certification
+## resume
 ---
--Language : PHP
-
--Certification : SQLD
+https://www.notion.so/8e477827a07e4838a67da3b74ffd9420
 
 
 
