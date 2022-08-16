@@ -10,7 +10,8 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-Aran Kim
+<a href="https://www.notion.so/8e477827a07e4838a67da3b74ffd9420">Aran Kim</a>
+##### 링크를 클릭하면 이력서로 이동합니다
 </span>
 </center>
 
@@ -18,17 +19,11 @@ Aran Kim
 
 <center>2020.10.12 ~ System Management Company </center>
 
-## Personal Data
+## Contact
 ---
-> 1993.05.03 대한민국,서울특별시,신도림 출생
-
 > 연락처: aran0503@gmail.com
-
 > Github : <a href="https://github.com/ohguohgu">https://github.com/ohguohgu</a>
 
-## resume
----
-https://www.notion.so/8e477827a07e4838a67da3b74ffd9420
 
 
 
