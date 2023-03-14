@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: PHP
-slug: php
+title: Spring
+slug: Spring
 category: study
 menu: false
 order: 2
