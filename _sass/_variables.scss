@@ -1,3 +1,8 @@
+$customFont: "BMJUA";
+$serif:$customFont, Georgia, Times, serif !default;
+$sans-serif: $customFont, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helevetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: $customFont, Monaco, Consolas, "Lucida Console", monospace !default;
+
 $gray: #9a9a9a;
 $gray-bg: #f9f9f9;
 $gray-text: #787878;

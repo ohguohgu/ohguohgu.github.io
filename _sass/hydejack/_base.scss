@@ -11,6 +11,15 @@ body, main {
 
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+
+  font-family: 'Gothic A1', sans-serif;
+}
+
+@font-face {
+  font-family: 'Gothic A1', sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;400&display=swap");
+  font-weight: normal;
+  font-style: normal;
 }
 
 // @media screen {
